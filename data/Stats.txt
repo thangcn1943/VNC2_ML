@@ -1,0 +1,68 @@
+***Train***
+Label			Count
+Am nhac: 		1296
+Am thuc: 		528
+Bat dong san: 		458
+Bong da: 		2567
+Chung khoan: 		513
+Cum ga: 		661
+Cuoc song do day: 	1174
+Du hoc: 		765
+Du lich: 		1102
+Duong vao WTO: 		289
+Gia dinh: 		375
+Giai tri tin hoc: 	1328
+Giao duc: 		1348
+Gioi tinh: 		446
+Hackers va Virus: 	489
+Hinh su: 		395
+Khong gian song: 	150
+Kinh doanh quoc te: 	985
+Kinh te: 		540
+Lam dep: 		1077
+Loi song: 		425
+Mua sam: 		206
+My thuat: 		259
+San khau dien anh: 	1667
+San pham tin hoc moi: 	1093
+Suc khoe: 		165
+Tennis: 		630	
+The gioi tre: 		759
+Thoi trang: 		542
+Xe co: 			212
+Total: 			22444
+
+
+***Test***
+Label			Count
+Am nhac:		555
+Am thuc: 		227
+Bat dong san: 		196
+Bong da: 		1100
+Chung khoan: 		220
+Cum ga: 		283
+Cuoc song do day: 	504
+Du hoc: 		328
+Du lich: 		473
+Duong vao WTO: 		124
+Gia dinh: 		161
+Giai tri tin hoc: 	570
+Giao duc: 		578
+Gioi tinh: 		191
+Hackers va Virus: 	209
+Hinh su: 		169
+Khong gian song: 	64
+Kinh doanh quoc te: 	422
+Kinh te:		231
+Lam dep: 		461
+Loi song: 		182
+Mua sam: 		88
+My thuat: 		111
+San khau dien anh: 	715
+San pham tin hoc moi: 	469
+Suc khoe: 		71
+Tennis: 		270
+The gioi tre: 		325
+Thoi trang: 		232
+Xe co: 			91
+Total: 			9620
