@@ -10,3 +10,4 @@ streamlit run app.py
 ```
 để xem chi tiết phần tiền xử lí dữ liệu: preprocess_data.ipynb  
 để xem chi tiết phần chọn model: model.ipynb  
+để xem chi tiết cách crawl data: crawler.ipynb
