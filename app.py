@@ -41,8 +41,8 @@ name_result = {
 
 st.write("VietNamese Newspaper Classification")
 #knn_model = pickle.load(open('data/saved/knn_model.sav','rb'))
-# lreg_model = pickle.load(open('data/saved/lreg_model.sav','rb'))
-mnb_model = pickle.load(open('data/saved/mnb_model.sav','rb'))
+lreg_model = pickle.load(open('data/saved/lreg_model.sav','rb'))
+#mnb_model = pickle.load(open('data/saved/mnb_model.sav','rb'))
 feature_extractor = pickle.load(open('data/saved/feature_extractor.sav', 'rb'))
 
 news = st.text_area("Nhap du lieu moi vao day")
@@ -59,7 +59,7 @@ if news:
     np_data = np.array([data])
     feature = feature_extractor.transform(np_data)
     #pred = knn_modelmodel.predict(feature)
-    pred = mnb_model.predict(feature)
+    pred = lreg_model.predict(feature)
     result = name_result[pred[0]]
     predict_time = time.time() - start
 
